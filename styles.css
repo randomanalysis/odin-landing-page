@@ -113,6 +113,7 @@ button {
     justify-content: center;
     padding-left: 200px;
     padding-right: 200px;
+    width: 200px;
 }
 
 .Placeholder-box {
@@ -120,6 +121,7 @@ button {
     display: inline-block;
     text-align: center;
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 .Box {
@@ -133,6 +135,7 @@ button {
 
 .Placeholder-box p {
     margin-top: 0px;
+    text-align: center;
 }
 
 .Quote {
